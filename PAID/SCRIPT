@@ -1,0 +1,8 @@
+
+-[RGTScript-Encrypted]
+-[Supported-All <Hydrogen maybe>]
+
+-[Script]
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/PRIVATE-PAID-RGT-LYNX/main/PRIVATE'))()
+-[Encrypted,True]
+-[Encrypter,Private,True]
